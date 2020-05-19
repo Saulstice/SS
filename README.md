@@ -1,2 +1,2 @@
-# SS
-practicing bootstrap
+# SolMe
+Practicing using bootstrap
